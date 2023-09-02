@@ -1,0 +1,12 @@
+plan:
+    1) update some code: in process
+    2) optimize & make chunks: in process
+    3) make ok level save (json): X
+    4) remake player moving system: X
+        4.1) remake player animations: X
+    5) remake menus system: X
+    6) remake textures: X
+    7) maybe make level editor: X
+
+git versions:
+    1.0: -
